@@ -1,0 +1,89 @@
+body{
+    background-color: coral;
+}#main_div{
+    display: flex;
+}
+.left_div{
+    display: flex;
+    padding-left: 70px;
+}
+#image{
+    width:40px;
+    height:40px;
+    border-radius: 20px;
+    margin-top: 40px;
+}
+#logo{
+    font-size:medium;
+    font-family:'Courier New', Courier, monospace;
+    margin-left: 20px;
+    margin-top: 50px;
+}
+#links_div{
+    display: flex;
+    margin-left: 400px;
+
+}
+.links{
+    font-family:'Courier New', Courier, monospace;
+    margin-left: 50px;
+    margin-top: 50px;
+    border-radius: 20px;
+    background-color:cornflowerblue;
+    height:40px;
+    width:100px;
+}
+#body_matter{
+    display:flex;
+    margin-top: 50px;
+}
+#balu_img{
+    width:350px;
+    height:250px;
+    margin-left: 250px;
+    border-radius: 40px;
+    margin-top: 100px;
+    box-shadow: 10px 10px 15px 15px green;
+}
+#matter{
+    margin-left: 250px;
+    margin-top: 100px;
+}
+#event_matter{
+    color:green;
+}
+#date_main{
+    color:green;
+}
+#date{
+    display: flex;
+}
+.boxes{
+    height:70px;
+    width:70px;
+    background-color: antiquewhite;
+    border-radius: 10px;
+    margin-left: 30px;
+}
+.numbers{
+    color: brown;
+    margin-left: 25px;
+    font-size: larger;
+}
+.num_matter{
+    margin-left: 12px;
+    margin-top: 2px;
+    font-size: smaller;
+}
+#register{
+    height:30px;
+    width:200px;
+    background-color: white;
+    margin-top: 70px;
+    margin-left: 80px;
+    border-radius: 30px;
+}
+#reg_matter{
+    margin-left: 30px;
+    color:green;
+}
